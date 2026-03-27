@@ -1,0 +1,23 @@
+{
+  "federation_name": "Federation of United Workers",
+  "unions": [
+    {
+      "id": "core_UNI",
+      "name": "Federation of United Workers",
+      "focus": "Organisation and home of the union council",
+      "status": "Active",
+      "embassy_link": "https://discord.gg/Fw6hnccPtF",
+      "vouched_by": ["FOUNDER"],
+      "joined_date": "2026-03-27"
+    },
+    {
+      "id": "UNI_001",
+      "name": "EXAMPLE",
+      "focus": "Security and Fleet Escort",
+      "status": "Active",
+      "embassy_link": "discord.gg/example-security-embassy",
+      "vouched_by": ["core_UNI"],
+      "joined_date": "2026-03-30"
+    }
+  ]
+}
