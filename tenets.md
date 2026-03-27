@@ -16,3 +16,6 @@ Membership is not a "click-to-join" or invite-only process. It is built on a Web
 
 ### 4. Evolutionary Governance
 These tenets and our operational protocols are "Open Source." If the Federation becomes stagnant or centralised, any group has the right to "Fork" these documents and establish a new branch of the experiment.
+
+### 5. Right to self-determination 
+No union has the right to demand exclusive loyalty from a player, and players are free to associate with as many unions as they wish.
