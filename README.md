@@ -5,12 +5,12 @@ Welcome to the administrative hub of the FoUW experiment. As there is no sole le
 ## How to Participate
 
 ### For Individual Players
-We recommend joining an existing Syndicate. Check the `SYNDICATES.json` file for active groups and their Discord Embassy links.
+We recommend joining an existing Union suited to your playstyle. Check the `UNIONS.json` file for active groups and their Discord Embassy links.
 
-### For New Syndicates
+### For New Unions
 To join the Federation mesh:
 1. Fork this repository.
-2. Add your Syndicate details (Name, Purpose, Embassy Link) to `SYNDICATES.json`.
+2. Add your Union's details (Name, Purpose, Embassy Link) to `UNIONS.json`.
 3. Open a **Pull Request (PR)** to the main branch.
 4. Obtain 5 "Vouch" comments on your PR from existing Federation members.
 5. Once vouched, Honkous will merge your PR, and you are officially part of the Federation.
