@@ -14,5 +14,5 @@ Resources are not "sold" internally. All refined materials and manufactured hull
 ### 3. Direct Action & Vouch-based membership
 Membership is not a "click-to-join" or invite-only process. It is built on a Web of Trust. New Syndicates must be vouched for by two active, unrelated groups who attest to their commitment to these tenets.
 
-### 4. Evolutionary Governance (The Fork)
+### 4. Evolutionary Governance
 These tenets and our operational protocols are "Open Source." If the Federation becomes stagnant or centralised, any group has the right to "Fork" these documents and establish a new branch of the experiment.
