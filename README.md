@@ -21,7 +21,7 @@ If you wish to change a rule or an economic protocol:
 * **The Discussion:** The PR comments section will be the main forum for discussion.
 * **Consensus:** Changes are merged only when a clear consensus is reached (defined as 72 hours of discussion with at least 70% "Approve" reactions from the collective).
 
-## The Technical Clerk
-The Honkous, the owner of this repository, will act on behalf of a "bookkeeper", not a Leader. Their role is restricted to:
+## The Bookkeeper
+Honkous, the owner of this repository, will act on behalf of a "bookkeeper", not a Leader. Their role is restricted to:
 * Merging PRs that have reached community consensus.
 * Maintaining the technical uptime of the repository.
