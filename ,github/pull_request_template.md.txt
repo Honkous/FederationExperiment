@@ -1,0 +1,37 @@
+# Union Admission Request
+
+Union Name [Insert Name]
+Primary FocusIndustry [e.g., Deep Space Mining, Fleet Escort]
+Embassy Link (DiscordMatrix) [Insert Link]
+
+---
+
+## 1. The Vouch
+To be considered for the Mesh, you must be vouched for by two existing Federation delegates from separate Unions. 
+
+ Vouch 1 (Tag GitHub Username or Union) @ 
+ Vouch 2 (Tag GitHub Username or Union) @ 
+
+---
+
+## 2. Structural Audit Declaration
+By submitting this request, the applying Union declares that they have read and fully implemented the `UNION-STANDARDS.md`. 
+
+Please tick all that apply to confirm compliance
+- [ ] Abolition of Rank We confirm our Union has no permanent officers, captains, or directors.
+- [ ] Distributed Administration We confirm our comms server (DiscordMatrix) is not wholly owned or exclusively controlled by a single individual.
+- [ ] Open Ledgers We confirm all communal stockpiles, hangars, and funds are visible to all our members.
+- [ ] Freedom of Association We confirm our members are free to leave or associate with other groups without penalty or blacklist.
+- [ ] Open Glass Policy We confirm we have an active, public Embassy channel and an observable Governance channel.
+
+---
+
+## 3. The Litmus Test
+Please answer the following question clearly in a few sentences.
+
+Scenario Your most active, veteran member completely disagrees with a major operational decision the rest of the Union wishes to make. What exact mechanical or social protocol prevents them from simply overruling the collective
+
+ [Insert your answer here]
+
+---
+Note to the Technical Clerk Do not merge this Pull Request until a 72-hour debate period has elapsed and the two Vouching Unions have physically verified the applicant's internal comms structure.
